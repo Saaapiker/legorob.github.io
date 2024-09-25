@@ -2,7 +2,7 @@
 
 # Параметры
 GITHUB_REPO="https://raw.githubusercontent.com/Saaapiker/legorob/refs/heads/main/v1.py?token=GHSAT0AAAAAACYBCLPIJKRNYCW3X7GZ75F6ZXUH7DA"  # URL к файлу на GitHub
-LOCAL_FILE="/legorob/github"  # Локальный путь к Python-скрипту
+LOCAL_FILE="/legorob/github/v1.py"  # Локальный путь к Python-скрипту
 PROCESS_NAME="v1.py"  # Имя Python-скрипта
 
 # Функция для проверки обновления файла на GitHub
