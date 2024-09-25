@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Параметры
-GITHUB_REPO="https://raw.githubusercontent.com/Saaapiker/legorob/refs/heads/main/v1.py"  # URL к файлу на GitHub
+GITHUB_REPO="curl -s https://raw.githubusercontent.com/Saaapiker/legorob/refs/heads/main/v1.py?token=GHSAT0AAAAAACYBCLPJGLSMQYNEHEMQMHKWZXUI2JQ"  # URL к файлу на GitHub
 LOCAL_FILE="/legorob/github/v1.py"  # Локальный путь к Python-скрипту
 PROCESS_NAME="v1.py"  # Имя Python-скрипта
 
